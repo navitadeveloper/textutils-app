@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/navitadeveloper/textutils-app/static/css/main.abd64e84.css",
-    "main.js": "/navitadeveloper/textutils-app/static/js/main.b758b717.js",
+    "main.js": "/navitadeveloper/textutils-app/static/js/main.852de26a.js",
     "static/js/734.af009fed.chunk.js": "/navitadeveloper/textutils-app/static/js/734.af009fed.chunk.js",
     "index.html": "/navitadeveloper/textutils-app/index.html",
     "main.abd64e84.css.map": "/navitadeveloper/textutils-app/static/css/main.abd64e84.css.map",
-    "main.b758b717.js.map": "/navitadeveloper/textutils-app/static/js/main.b758b717.js.map",
+    "main.852de26a.js.map": "/navitadeveloper/textutils-app/static/js/main.852de26a.js.map",
     "734.af009fed.chunk.js.map": "/navitadeveloper/textutils-app/static/js/734.af009fed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.b758b717.js"
+    "static/js/main.852de26a.js"
   ]
 }
